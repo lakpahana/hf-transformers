@@ -20,3 +20,6 @@ from pipelines can use models(inference) without downloading the pre trained mod
 
 https://huggingface.co/docs/transformers/main/en/main_classes/pipelines
 
+# HF Tokenizer
+
+https://huggingface.co/docs/transformers/main/en/main_classes/tokenizer
